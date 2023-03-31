@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.11.5
-Release:        1
+Release:        2
 Summary:        Optimized handling of `&[u8]` and `Vec<u8>` for Serde
 
 # Upstream license specification: MIT OR Apache-2.0
